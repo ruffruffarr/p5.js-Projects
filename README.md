@@ -6,5 +6,6 @@ p5.js is a JavaScript library for creative coding, with a focus on making coding
 Using the metaphor of a sketch, p5.js has a full set of drawing functionality. However, you’re not limited to your drawing canvas. You can think of your whole browser page as your sketch, including HTML5 objects for text, input, video, webcam, and sound.
 
 
-
-Clicker Game: https://editor.p5js.org/classes.ottiya/sketches/9GR5JX2If 
+I developed the p5.js curriculum for Ottiya. Here are examples of some of those projects! 
+Clicker Game (Lesson 11): https://editor.p5js.org/classes.ottiya/sketches/9GR5JX2If 
+Bouncing Ball (Lesson 9B): https://editor.p5js.org/classes.ottiya/sketches/aAdEptjU9
