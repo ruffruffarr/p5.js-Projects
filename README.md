@@ -8,6 +8,9 @@ Using the metaphor of a sketch, p5.js has a full set of drawing functionality. H
 
 I developed the p5.js curriculum for Ottiya. Here are examples of some of those projects! 
 
+
 👆 Clicker Game (Lesson 11): https://editor.p5js.org/classes.ottiya/sketches/9GR5JX2If 
+
 ⚽ Bouncing Ball (Lesson 9B): https://editor.p5js.org/classes.ottiya/sketches/aAdEptjU9
+
 🏠 Drawing a House (Lesson 4): https://editor.p5js.org/classes.ottiya/sketches/dOuLclF74
